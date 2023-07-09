@@ -5,7 +5,7 @@ Created on Mon Jul  3 15:20:42 2023
 @author: Amar Doshi
 """
 
-# Infinite scrolling version
+# JavaScript version
 
 
 url = 'http://quotes.toscrape.com/js/'
